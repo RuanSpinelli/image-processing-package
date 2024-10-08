@@ -8,7 +8,7 @@ with open("requirements.txt") as f:
 
 setup(
 
-    name = "image_processing",
+    name='ruan-image-processing',
     version = "0.0.1",
     author = "Ruan Spinelli",
     description = "Image Processing Package using Skimage",
